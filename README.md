@@ -77,9 +77,9 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 ## 📸 Screenshots
 
 | ![Screenshot 1](ScreenShots/1.png) | ![Screenshot 2](ScreenShots/2.png)   |
-|                                    |                                      |
+|------------------------------------|--------------------------------------|  
 | ![Screenshot 3](ScreenShots/3.png) | ![Screenshot 4](ScreenShots/4.png)   |
-|                                    |                                      |
+|------------------------------------|--------------------------------------|  
 | ![Screenshot 5](ScreenShots/5.png) |                                   
 
 
@@ -87,7 +87,7 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 ## 🎞 Gameplay Videos
 
 | 📽 **Unity Editor View (GIF)** | 📽 **Build File View (GIF)** |
-|                                |                              |
+|------------------------------------|--------------------------------------|  
 | ![Editor View](ScreenShots/Unity%20editor%20Screen%20Recording.gif) | ![Build View](ScreenShots/Bulid%20ScreenRecording.gif) |
 
 
