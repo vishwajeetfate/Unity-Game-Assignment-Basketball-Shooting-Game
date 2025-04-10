@@ -18,7 +18,7 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/Unity-Game-Assignment-Basketball-Shooting-Game.git
+   git clone https://github.com/vishwajeetfate/Unity-Game-Assignment-Basketball-Shooting-Game.git
 
 
 ## 🛠 How to Open in Unity Hub
