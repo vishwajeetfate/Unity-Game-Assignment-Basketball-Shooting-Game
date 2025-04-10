@@ -88,10 +88,10 @@ Gameplay previews from the basketball shooting game:
 
 ## 🎞 Gameplay Videos
 
-📽 **Unity Editor View – Screen Recording (MP4)**  
-[▶️ Watch Video](ScreenShots/2.mp4)
+📽 **Unity Editor View – Screen Recording (GIF)**  
+![Unity Editor GIF](ScreenShots/Unity%20editor%20Screen%20Recording.gif)
 
-📽 **build file – Screen Recording (MP4)**  
-[▶️ Watch Video](ScreenShots/1.mp4)
+📽 **Build File – Screen Recording (GIF)**  
+![Build Recording GIF](ScreenShots/Bulid%20ScreenRecording.gif)
 
 
