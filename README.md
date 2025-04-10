@@ -74,24 +74,27 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 - **Buttons** for starting and stopping the game
 
 
+
 ## 📸 Screenshots
 
-Gameplay previews from the basketball shooting game:
-
-![Gameplay Screenshot 1](ScreenShots/1.png)  
-![Gameplay Screenshot 2](ScreenShots/2.png)  
-![Gameplay Screenshot 3](ScreenShots/3.png)  
-![Gameplay Screenshot 4](ScreenShots/4.png)  
-![Gameplay Screenshot 5](ScreenShots/5.png)
+| ![Screenshot 1](ScreenShots/1.png) | ![Screenshot 2](ScreenShots/2.png) |
+|-----------------------------------|-----------------------------------|
+| ![Screenshot 3](ScreenShots/3.png) | ![Screenshot 4](ScreenShots/4.png) |
+|-----------------------------------|-----------------------------------|
+| ![Screenshot 5](ScreenShots/5.png) |                                   |
+|-----------------------------------|-----------------------------------|
 
 ---
 
 ## 🎞 Gameplay Videos
 
-📽 **Unity Editor View – Screen Recording (GIF)**  
-![Unity Editor GIF](ScreenShots/Unity%20editor%20Screen%20Recording.gif)
+| 📽 **Unity Editor View (GIF)** | 📽 **Build File View (GIF)** |
+|-------------------------------|------------------------------|
+| ![Editor View](ScreenShots/Unity%20editor%20Screen%20Recording.gif) | ![Build View](ScreenShots/Bulid%20ScreenRecording.gif) |
 
-📽 **Build File – Screen Recording (GIF)**  
-![Build Recording GIF](ScreenShots/Bulid%20ScreenRecording.gif)
+
+## ❤️ Footer
+
+Made with ❤️ in Unity
 
 
