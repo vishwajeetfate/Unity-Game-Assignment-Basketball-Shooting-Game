@@ -89,9 +89,9 @@ Gameplay previews from the basketball shooting game:
 ## 🎞 Gameplay Videos
 
 📽 **Unity Editor View – Screen Recording (MP4)**  
-[▶️ Watch Video](ScreenShots/Unity%20editor%20Screen%20Recording.mp4)
+[▶️ Watch Video](ScreenShots/1.mp4)
 
 📽 **build file – Screen Recording (MP4)**  
-[▶️ Watch Video](ScreenShots/Bulid%20ScreenRecording.mp4)
+[▶️ Watch Video](ScreenShots/2.mp4)
 
 
