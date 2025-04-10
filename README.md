@@ -2,7 +2,6 @@
 
 A basketball-style arcade minigame made with Unity. Swipe to throw the ball and try to score through the hoop before time runs out!
 
----
 
 ## 📌 Project Info
 
@@ -12,7 +11,7 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 - **Status**: Playable  
 - **Tags**: Unity, Game, Basketball, Swipe, Arcade, 3D
 
----
+
 
 ## 🚀 How to Run
 
@@ -26,14 +25,14 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 1. **Click "Add Project"** and select the cloned folder  
 2. **Use Unity 2021.3 LTS or later**
 
----
+
 
 ## ▶️ Play the Game
 
 1. Open the **MainScene** (or the main gameplay scene)  
 2. Press the **Play** button in the Unity Editor
 
----
+
 
 ## 🎮 Controls
 
@@ -61,7 +60,7 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 - Displays feedback messages  
 - Updates score and timer
 
----
+
 
 ### 🖥 UI
 
@@ -77,19 +76,18 @@ A basketball-style arcade minigame made with Unity. Swipe to throw the ball and 
 
 ## 📸 Screenshots
 
-| ![Screenshot 1](ScreenShots/1.png) | ![Screenshot 2](ScreenShots/2.png) |
-|-----------------------------------|-----------------------------------|
-| ![Screenshot 3](ScreenShots/3.png) | ![Screenshot 4](ScreenShots/4.png) |
-|-----------------------------------|-----------------------------------|
-| ![Screenshot 5](ScreenShots/5.png) |                                   |
-|-----------------------------------|-----------------------------------|
+| ![Screenshot 1](ScreenShots/1.png) | ![Screenshot 2](ScreenShots/2.png)   |
+|                                    |                                      |
+| ![Screenshot 3](ScreenShots/3.png) | ![Screenshot 4](ScreenShots/4.png)   |
+|                                    |                                      |
+| ![Screenshot 5](ScreenShots/5.png) |                                   
 
----
+
 
 ## 🎞 Gameplay Videos
 
 | 📽 **Unity Editor View (GIF)** | 📽 **Build File View (GIF)** |
-|-------------------------------|------------------------------|
+|                                |                              |
 | ![Editor View](ScreenShots/Unity%20editor%20Screen%20Recording.gif) | ![Build View](ScreenShots/Bulid%20ScreenRecording.gif) |
 
 
